@@ -11,3 +11,6 @@ tambien quiero a alguien para poder hablar en ingles y mejorar mi speaking
 lo otro seria tambien aprender ruso, japones, frances e italiano.
 
 Siempre me gustaron los idiomas aunque nunca tenia con quien practicarlo, por eso se ingles pero me cuesta el speaking, solo es falta de practica.
+
+
+Ahora debo hacer un merge y fusionar la rama de trabajo con el master., los comentarios herchos estaran debajo
