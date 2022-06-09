@@ -12,13 +12,10 @@ lo otro seria tambien aprender ruso, japones, frances e italiano.
 
 Siempre me gustaron los idiomas aunque nunca tenia con quien practicarlo, por eso se ingles pero me cuesta el speaking, solo es falta de practica.
 
-<<<<<<< HEAD
 
 Ahora debo hacer un merge y fusionar la rama de trabajo con el master., los comentarios herchos estaran debajo
-=======
 06/06/2022 en la oficina estudiando git y github
 
 este es otro comentario para la rama, un ejemplo practicarlo
 
 hay que progresar, la llegar al culmino de la realizacion del termino perse
->>>>>>> nuevaRama1
