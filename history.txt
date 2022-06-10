@@ -19,3 +19,5 @@ Ahora debo hacer un merge y fusionar la rama de trabajo con el master., los come
 este es otro comentario para la rama, un ejemplo practicarlo
 
 hay que progresar, la llegar al culmino de la realizacion del termino perse
+
+10-06-2022 Probando modificar el codigo en Github y traerlo hacia mi pc
